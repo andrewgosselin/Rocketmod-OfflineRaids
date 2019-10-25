@@ -1,6 +1,6 @@
 # Rocketmod - Offline Raids
 
-I am not actively maintaning this plugin as I do not play Unturned anymore but thought I would upload it as an example for anyone else looking to make a similar plugin.
+I am not actively maintaining this plugin as I do not play Unturned anymore but thought I would upload it as an example for anyone else looking to make a similar plugin.
 
 ---
 
