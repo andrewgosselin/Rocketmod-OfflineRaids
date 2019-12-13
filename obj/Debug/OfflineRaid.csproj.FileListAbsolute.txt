@@ -1,0 +1,12 @@
+I:\AdvancedZones-master\bin\Debug\OfflineRaid.dll
+I:\AdvancedZones-master\bin\Debug\OfflineRaid.pdb
+I:\AdvancedZones-master\obj\Debug\OfflineRaid.csprojAssemblyReference.cache
+I:\AdvancedZones-master\obj\Debug\OfflineRaid.csproj.CoreCompileInputs.cache
+I:\AdvancedZones-master\obj\Debug\OfflineRaid.dll
+I:\AdvancedZones-master\obj\Debug\OfflineRaid.pdb
+I:\OfflineRaids\bin\Debug\OfflineRaid.dll
+I:\OfflineRaids\bin\Debug\OfflineRaid.pdb
+I:\OfflineRaids\obj\Debug\OfflineRaid.csprojAssemblyReference.cache
+I:\OfflineRaids\obj\Debug\OfflineRaid.csproj.CoreCompileInputs.cache
+I:\OfflineRaids\obj\Debug\OfflineRaid.dll
+I:\OfflineRaids\obj\Debug\OfflineRaid.pdb

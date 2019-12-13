@@ -1,0 +1,6 @@
+I:\OfflineRaids\bin\Release\OfflineRaid.dll
+I:\OfflineRaids\bin\Release\OfflineRaid.pdb
+I:\OfflineRaids\obj\Release\OfflineRaid.csproj.CoreCompileInputs.cache
+I:\OfflineRaids\obj\Release\OfflineRaid.dll
+I:\OfflineRaids\obj\Release\OfflineRaid.pdb
+I:\OfflineRaids\obj\Release\OfflineRaid.csprojAssemblyReference.cache
